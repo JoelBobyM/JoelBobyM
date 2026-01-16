@@ -39,21 +39,11 @@ A forward-thinking developer passionate about building reliable systems, craftin
 
 ---
 
-### 🏅 GitHub Stats & Activity
-
-### 🏅 GitHub Stats
+### 📊 GitHub Profile Summary
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoelBobyM&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoelBobyM&layout=compact&theme=tokyonight" height="180" />
+  <img src="https://raw.githubusercontent.com/JoelBobyM/JoelBobyM/output/github-contribution-grid-snake.svg" />
 </p>
-
-### 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=JoelBobyM&theme=tokyonight&hide_border=true" />
-</p>
-
 
 ---
 
