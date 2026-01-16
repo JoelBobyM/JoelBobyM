@@ -41,17 +41,19 @@ A forward-thinking developer passionate about building reliable systems, craftin
 
 ### 🏅 GitHub Stats & Activity
 
-<a href="http://www.github.com/JoelBobyM">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoelBobyM&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
-</a>
+### 🏅 GitHub Stats
 
-<a href="http://www.github.com/JoelBobyM">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoelBobyM&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-</a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JoelBobyM&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoelBobyM&layout=compact&theme=tokyonight" height="180" />
+</p>
 
-<a href="https://github.com/JoelBobyM">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoelBobyM&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&layout=compact" />
-</a>
+### 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=JoelBobyM&theme=tokyonight&hide_border=true" />
+</p>
+
 
 ---
 
